@@ -39,7 +39,6 @@ const questions = () => inquirer.prompt([
 
 // function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data)
 
 }
 
@@ -50,4 +49,5 @@ function init() {
 
 // function call to initialize program
 init();
-questions();
+// questions();
+
