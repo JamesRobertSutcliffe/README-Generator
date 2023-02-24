@@ -29,7 +29,12 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'What kind of license?',
-        choices: ["MIT", "APACHE 2.0", "The Unlicense", "Boost Software License 1.0", "None"]
+        choices: ["MIT", "APACHE_2.0", "The Unlicense", "Boost Software License 1.0", "None"]
+    },
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'Outline any important usage notes',
     },
     {
         type: 'input',
@@ -39,7 +44,12 @@ const questions = [
     {
         type: 'input',
         name: 'contribution',
-        message: 'Explain the test / contribution process',
+        message: 'Explain the contribution process',
+    },
+    {
+        type: 'input',
+        name: 'testing',
+        message: 'explain the testing process',
     },
 ];
 
