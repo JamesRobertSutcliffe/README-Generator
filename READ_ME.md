@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # ReadMe Generator
   ![Github license] (https://img.shields.io/badge/license-MIT-blue.svg)
+=======
+# qere
+  
+  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+>>>>>>> 87ea91798e0a895410b463c993c88d769bdc2552
 
 ### Description
 
