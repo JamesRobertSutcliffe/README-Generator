@@ -40,7 +40,9 @@ ${data.contribution}
 
 ${data.testing}
 
+Please contact me at ${data.email} with any questions.
 
+Check out on github by searching ${data.github}.
 
 `;
 }
